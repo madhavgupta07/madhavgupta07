@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Madhav Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Madhav Gupta</h1>
+<h3>A passionate frontend developer from India</h3>
+
+
+- 🔭 I’m currently working on **Pet-Buddy**
+
+- 🌱 I’m currently learning **React, Firebase.**
+
+- 👯 I’m looking to collaborate on **a good web development project.**
+
+- 🤝 I’m looking for help with **my frontend skills**
+
+- 💬 Ask me about **frontend skills.**
+
+- 📫 How to reach me **madhavgupta5555@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -37,11 +50,6 @@
 
 
   </p>
- <div style="display: flex;">
-       <p><img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=madhavgupta07&show_icons=true&locale=en"
-                alt="madhavgupta07" width="300px" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavgupta07&show_icons=true&locale=en" alt="madhavgupta07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgupta07&"
-                alt="madhavgupta07" width="300px" /></p>
-   </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgupta07&" alt="madhavgupta07" /></p>
