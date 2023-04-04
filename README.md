@@ -2,17 +2,11 @@
 <h3>A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on **Pet-Buddy**
+- 🔭 I'm Madhav Gupta, currently pursuing my Bachelors in Computer Science & Engineering.
 
-- 🌱 I’m currently learning **React, Firebase.**
+- 🌱I’m a tech enthusiast who keeps on exploring new things and doing experiments with new technologies.
 
-- 👯 I’m looking to collaborate on **a good web development project.**
-
-- 🤝 I’m looking for help with **my frontend skills**
-
-- 💬 Ask me about **frontend skills.**
-
-- 📫 How to reach me **madhavgupta5555@gmail.com**
+- 📫 Feel free to connect me: **madhavgupta5555@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -50,6 +44,9 @@
 
 
   </p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavgupta07&show_icons=true&locale=en" alt="madhavgupta07" /></p>
+## 📈 My Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhavgupta07&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgupta07&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgupta07&" alt="madhavgupta07" /></p>
